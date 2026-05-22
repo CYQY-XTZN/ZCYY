@@ -15,7 +15,7 @@ export default function AboutSection() {
       <div className="bg-[#B1F101] py-20">
         <div className="container mx-auto px-6">
           <h2 className="text-3xl font-bold leading-tight text-slate-900 md:text-4xl">
-            金秀和平村道地瑶药数智产业园 | Jinxiu Dadi Yao Medicine Smart Industrial Park
+            金秀和平村道地瑶药数智产业园 | Jinxiu Heping Village Authentic Yao Medicine Smart Industrial Park
           </h2>
         </div>
       </div>
