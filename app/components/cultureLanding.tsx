@@ -14,7 +14,7 @@ export default function TissueCultureLanding() {
 
       <div
         className="relative min-h-screen bg-cover bg-center bg-no-repeat"
-        style={{ backgroundImage: `url(${publicPath("/TissueCultureLanding-bg.png")})` }}
+        style={{ backgroundImage: `url(${publicPath("/cultureLanding.png")})` }}
       >
         <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/35 to-transparent" />
         <div className="absolute inset-0 bg-black/10" />
