@@ -53,13 +53,13 @@ export default function Footer() {
         ))}
       </div>
       
-      {/* <div className="text-center text-[10px] text-gray-400 mt-16">
-        ©2025 宸玥青源. 保留所有权利. 
+      {<div className="text-center text-[10px] text-gray-400 mt-16">
+        ©2026 泽辰瑶源科技（金秀）有限公司. 保留所有权利. 
         <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer" className="hover:text-gray-600 transition-colors">
           粤ICP备2025413714号-1 <br/>
           深圳市南山区高新北二道15号金汇球大厦526      联系方式：刘先生 15320277411
         </a>
-      </div> */}
+      </div> }
     </footer>
   );
 }
