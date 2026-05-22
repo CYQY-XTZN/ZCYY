@@ -57,7 +57,7 @@ export default function Footer() {
         ©2026 泽辰瑶源科技（金秀）有限公司. 保留所有权利. 
         {<a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer" className="hover:text-gray-600 transition-colors">
           {/*粤ICP备2025413714号-2 <br/>*/}
-          广西来宾市金秀瑶族自治县金秀镇金秀瑶族自治县道地瑶药数智产业园办公楼      联系方式：刘先生 15320277411
+          广西来宾市金秀瑶族自治县金秀镇和平村金秀瑶族自治县道地瑶药数智产业园办公楼      联系方式：刘先生 15320277411
         </a>}
       </div> }
     </footer>
